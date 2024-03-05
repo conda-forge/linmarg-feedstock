@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/linmarg-feedsto
 
 Home: https://gitlab.unige.ch/delisle/linmarg
 
-Package license: LGPL-3.0-or-later
+Package license: EUPL-1.2
 
 Summary: Linear parameters marginalizer
 
