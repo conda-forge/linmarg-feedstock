@@ -35,7 +35,7 @@ test:
 about:
   home: https://gitlab.unige.ch/delisle/linmarg
   summary: Linear parameters marginalizer
-  license: LGPL-3.0-or-later
+  license: EUPL-1.2
   license_file: LICENSE
 
 extra:
