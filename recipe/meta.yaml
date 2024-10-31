@@ -1,5 +1,5 @@
 {% set name = "linmarg" %}
-{% set version = "0.1.1" %}
+{% set version = "0.1.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/linmarg-{{ version }}.tar.gz
-  sha256: dc766663ea9b891f57f97d2beed6709d917ed8f5dc3b709231076e7419021b9d
+  sha256: 5b0fad8a93a3ca61f6e987228d0f5ad87a6abefe101da2e92fc3496c3df0f2c9
 
 build:
   noarch: python
